@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 
+# AI Data files
+*.dat
+*.dat_backup
+
 # C extensions
 *.so
 
