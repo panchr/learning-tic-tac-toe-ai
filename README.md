@@ -1,5 +1,5 @@
 # learning-tic-tac-toe-ai
-A minimalist, learning Tic-Tac-Toe AI written in Python
+## A minimalist, learning Tic-Tac-Toe AI written in Python
 
 This project is my first attempt to create a learning game AI.
 However, instead of using classical Machine Learning algorithms, it utilizes reinforcement learning.
